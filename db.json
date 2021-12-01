@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "text": "Buy milk",
+      "createdDate": "2021-11-26T05:25:22.965Z",
+      "id": 1
+    },
+    {
+      "text": "Take garbage out",
+      "createdDate": "2021-11-26T05:25:22Z",
+      "id": 2
+    },
+    {
+      "text": "Task with wrong date",
+      "createdDate": "2021-11-26",
+      "id": 3
+    }
+  ]
+}
